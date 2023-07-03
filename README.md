@@ -14,7 +14,14 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wuRkAQnS53aXNn4FOCsRHybpw56NvA_4/view](https://drive.google.com/file/d/1wuRkAQnS53aXNn4FOCsRHybpw56NvA_4/view)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+    <a href="mailto:jubairhossain0604@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
+      alt="Mail"
+      height="30"
+      width="40"
+  /></a>
 <a href="https://linkedin.com/in/jubair-hossain-hstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jubair-hossain-hstu" height="30" width="40" /></a>
 <a href="https://fb.com/jubair.hossain.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jubair.hossain.99" height="30" width="40" /></a>
 <a href="https://instagram.com/juba_ir_striker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juba_ir_striker" height="30" width="40" /></a>
