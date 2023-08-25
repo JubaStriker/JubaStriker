@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jubairhossain-portfolio.netlify.app/](https://jubairhossain-portfolio.netlify.app/)
 
-- 💬 Ask me about **React.js, JavaScript,**
+- 💬 Ask me about **Next.js, TypeScript,**
 
 - 📫 Mail me at **jubairhossain0604@gmail.com**
 
