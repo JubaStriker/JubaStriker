@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubastriker&label=Profile%20views&color=0e75b6&style=flat" alt="jubastriker" /> </p>
 
-- 🌱 I’m currently learning **Web3, Solidity**
+- 🌱 I’m currently learning **Nest.js, Graphql**
 
 - 👨‍💻 All of my projects are available at [https://jubairhossain-portfolio.netlify.app/](https://jubairhossain-portfolio.netlify.app/)
 
