@@ -17,7 +17,7 @@
     <a href="mailto:jubairhossain0604@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
+      src="https://thumbs.dreamstime.com/b/gmail-logo-gmail-icon-google-email-service-logotype-icon-vector-gmail-logo-gmail-icon-google-email-service-logotype-icon-vector-302789383.jpg"
       alt="Mail"
       height="30"
       width="40"
