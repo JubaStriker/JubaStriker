@@ -45,8 +45,23 @@
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.netlify.com/v3/img/components/logomark.png"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s"
       alt="netlify"
+      width="40"
+      height="40" />
+  </a>
+     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://nestjs.com/logo-small-gradient.0ed287ce.svg"
+      alt="nest"
+      width="40"
+      height="40" />
+  </a>
+    </a>
+     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Light.svg"
+      alt="ggraphql"
       width="40"
       height="40" />
   </a>
