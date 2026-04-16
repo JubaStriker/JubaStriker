@@ -67,6 +67,6 @@
 </p>
 
 <p align="center">
-<img width="48%" src="https://camo.githubusercontent.com/7eccb3640fa173c23516a7c40867616ec3b6a1f309f365a7f5269bd405e9c74a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d617279616e7832332673686f775f69636f6e733d74727565267468656d653d7261646963616c26686964655f626f726465723d747275652672616e6b5f69636f6e3d676974687562" alt="aryanx23's stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JubaStrikeramp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;rank_icon=github" style="max-width: 100%;">
+<img src="https://github-readme-stats.vercel.app/api?username=JubaStriker&show_icons=true&theme=tokyonight" alt="Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JubaStriker&theme=tokyonight" alt="Streak" />
 </p>
